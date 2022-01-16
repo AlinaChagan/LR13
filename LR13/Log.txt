@@ -1,0 +1,320 @@
+24.12.2021 00:52:49
+Free space on the disk D:\ - 791183360 bytes 
+------------------------------
+24.12.2021 00:52:49
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+24.12.2021 00:52:49
+All drives information : 
+[
+Name - C:\,Total size - 507118936064,Free space - 199962914816 , Volume label - Windows 10]
+Name - D:\,Total size - 4294963200,Free space - 791183360 , Volume label - DRIVERS]
+]
+
+------------------------------
+24.12.2021 00:52:49
+Full path to the Log.txt - C:\ALINA\Term3\ООП\лабораторные\лаба13\LR13\Log.txt
+------------------------------
+24.12.2021 00:52:49
+[
+File name: Log.txt
+Size: 615 bytes
+File extension: .txt
+]
+
+------------------------------
+24.12.2021 00:52:49
+File Log.txt : date of creation - 24.12.2021 00:42:40, date of last edit - 24.12.2021 00:52:49
+------------------------------
+24.12.2021 00:52:49
+Time of the directory creation - 03.09.2021 09:55:40
+------------------------------
+24.12.2021 00:52:50
+The number of files - 0
+------------------------------
+24.12.2021 00:52:50
+Number of subdirectories - 9
+------------------------------
+24.12.2021 00:52:50
+Parent Directory - C:\ALINA
+------------------------------
+24.12.2021 00:54:21
+Free space on the disk D:\ - 791183360 bytes 
+------------------------------
+24.12.2021 00:54:21
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+24.12.2021 00:54:21
+All drives information : 
+[
+Name - C:\,Total size - 507118936064,Free space - 199954792448 , Volume label - Windows 10]
+Name - D:\,Total size - 4294963200,Free space - 791183360 , Volume label - DRIVERS]
+]
+
+------------------------------
+24.12.2021 00:54:21
+Full path to the Log.txt - C:\ALINA\Term3\ООП\лабораторные\лаба13\LR13\Log.txt
+------------------------------
+24.12.2021 00:54:21
+[
+File name: Log.txt
+Size: 1832 bytes
+File extension: .txt
+]
+
+------------------------------
+24.12.2021 00:54:21
+File Log.txt : date of creation - 24.12.2021 00:42:40, date of last edit - 24.12.2021 00:54:21
+------------------------------
+24.12.2021 00:54:21
+Time of the directory creation - 03.09.2021 09:55:40
+------------------------------
+24.12.2021 00:54:21
+The number of files - 0
+------------------------------
+24.12.2021 00:54:21
+Number of subdirectories - 9
+------------------------------
+24.12.2021 00:54:21
+Parent Directory - C:\ALINA
+------------------------------
+24.12.2021 09:57:24
+Free space on the disk D:\ - 791183360 bytes 
+------------------------------
+24.12.2021 09:57:24
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+24.12.2021 09:57:24
+All drives information : 
+[
+Name - C:\,Total size - 507118936064,Free space - 199741526016 , Volume label - Windows 10]
+Name - D:\,Total size - 4294963200,Free space - 791183360 , Volume label - DRIVERS]
+]
+
+------------------------------
+24.12.2021 09:57:24
+Full path to the Log.txt - C:\ALINA\Term3\ООП\лабораторные\лаба13\LR13\Log.txt
+------------------------------
+24.12.2021 09:57:24
+[
+File name: Log.txt
+Size: 3050 bytes
+File extension: .txt
+]
+
+------------------------------
+24.12.2021 09:57:24
+File Log.txt : date of creation - 24.12.2021 00:42:40, date of last edit - 24.12.2021 09:57:24
+------------------------------
+24.12.2021 09:57:24
+Time of the directory creation - 03.09.2021 09:55:40
+------------------------------
+24.12.2021 09:57:24
+The number of files - 0
+------------------------------
+24.12.2021 09:57:24
+Number of subdirectories - 9
+------------------------------
+24.12.2021 09:57:24
+Parent Directory - C:\ALINA
+------------------------------
+24.12.2021 09:59:36
+Free space on the disk D:\ - 791183360 bytes 
+------------------------------
+24.12.2021 09:59:36
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+24.12.2021 09:59:36
+All drives information : 
+[
+Name - C:\,Total size - 507118936064,Free space - 199738699776 , Volume label - Windows 10]
+Name - D:\,Total size - 4294963200,Free space - 791183360 , Volume label - DRIVERS]
+]
+
+------------------------------
+24.12.2021 09:59:36
+Full path to the Log.txt - C:\ALINA\Term3\ООП\лабораторные\лаба13\LR13\Log.txt
+------------------------------
+24.12.2021 09:59:36
+[
+File name: Log.txt
+Size: 4268 bytes
+File extension: .txt
+]
+
+------------------------------
+24.12.2021 09:59:36
+File Log.txt : date of creation - 24.12.2021 00:42:40, date of last edit - 24.12.2021 09:59:36
+------------------------------
+24.12.2021 09:59:36
+Time of the directory creation - 03.09.2021 09:55:40
+------------------------------
+24.12.2021 09:59:36
+The number of files - 0
+------------------------------
+24.12.2021 09:59:36
+Number of subdirectories - 9
+------------------------------
+24.12.2021 09:59:36
+Parent Directory - C:\ALINA
+------------------------------
+24.12.2021 10:11:16
+Free space on the disk D:\ - 791183360 bytes 
+------------------------------
+24.12.2021 10:11:16
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+24.12.2021 10:11:16
+All drives information : 
+[
+Name - C:\,Total size - 507118936064,Free space - 199664029696 , Volume label - Windows 10]
+Name - D:\,Total size - 4294963200,Free space - 791183360 , Volume label - DRIVERS]
+]
+
+------------------------------
+24.12.2021 10:11:16
+Full path to the Log.txt - C:\ALINA\Term3\ООП\лабораторные\лаба13\LR13\Log.txt
+------------------------------
+24.12.2021 10:11:16
+[
+File name: Log.txt
+Size: 5486 bytes
+File extension: .txt
+]
+
+------------------------------
+24.12.2021 10:11:16
+File Log.txt : date of creation - 24.12.2021 00:42:40, date of last edit - 24.12.2021 10:11:16
+------------------------------
+24.12.2021 10:11:16
+Time of the directory creation - 03.09.2021 09:55:40
+------------------------------
+24.12.2021 10:11:16
+The number of files - 0
+------------------------------
+24.12.2021 10:11:16
+Number of subdirectories - 9
+------------------------------
+24.12.2021 10:11:16
+Parent Directory - C:\ALINA
+------------------------------
+24.12.2021 10:13:05
+Free space on the disk D:\ - 791183360 bytes 
+------------------------------
+24.12.2021 10:13:05
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+24.12.2021 10:13:05
+All drives information : 
+[
+Name - C:\,Total size - 507118936064,Free space - 199662968832 , Volume label - Windows 10]
+Name - D:\,Total size - 4294963200,Free space - 791183360 , Volume label - DRIVERS]
+]
+
+------------------------------
+24.12.2021 10:13:05
+Full path to the Log.txt - C:\ALINA\Term3\ООП\лабораторные\лаба13\LR13\Log.txt
+------------------------------
+24.12.2021 10:13:05
+[
+File name: Log.txt
+Size: 6704 bytes
+File extension: .txt
+]
+
+------------------------------
+24.12.2021 10:13:06
+File Log.txt : date of creation - 24.12.2021 00:42:40, date of last edit - 24.12.2021 10:13:05
+------------------------------
+24.12.2021 10:13:06
+Time of the directory creation - 03.09.2021 09:55:40
+------------------------------
+24.12.2021 10:13:06
+The number of files - 0
+------------------------------
+24.12.2021 10:13:06
+Number of subdirectories - 9
+------------------------------
+24.12.2021 10:13:06
+Parent Directory - C:\ALINA
+------------------------------
+24.12.2021 10:16:25
+Free space on the disk D:\ - 791183360 bytes 
+------------------------------
+24.12.2021 10:16:25
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+24.12.2021 10:16:25
+All drives information : 
+[
+Name - C:\,Total size - 507118936064,Free space - 199662043136 , Volume label - Windows 10]
+Name - D:\,Total size - 4294963200,Free space - 791183360 , Volume label - DRIVERS]
+]
+
+------------------------------
+24.12.2021 10:16:25
+Full path to the Log.txt - C:\ALINA\Term3\ООП\лабораторные\лаба13\LR13\Log.txt
+------------------------------
+24.12.2021 10:16:25
+[
+File name: Log.txt
+Size: 7922 bytes
+File extension: .txt
+]
+
+------------------------------
+24.12.2021 10:16:25
+File Log.txt : date of creation - 24.12.2021 00:42:40, date of last edit - 24.12.2021 10:16:25
+------------------------------
+24.12.2021 10:16:25
+Time of the directory creation - 03.09.2021 09:55:40
+------------------------------
+24.12.2021 10:16:25
+The number of files - 0
+------------------------------
+24.12.2021 10:16:25
+Number of subdirectories - 9
+------------------------------
+24.12.2021 10:16:25
+Parent Directory - C:\ALINA
+------------------------------
+24.12.2021 10:19:17
+Free space on the disk D:\ - 791183360 bytes 
+------------------------------
+24.12.2021 10:19:17
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+24.12.2021 10:19:17
+All drives information : 
+[
+Name - C:\,Total size - 507118936064,Free space - 199658086400 , Volume label - Windows 10]
+Name - D:\,Total size - 4294963200,Free space - 791183360 , Volume label - DRIVERS]
+]
+
+------------------------------
+24.12.2021 10:19:17
+Full path to the Log.txt - C:\ALINA\Term3\ООП\лабораторные\лаба13\LR13\Log.txt
+------------------------------
+24.12.2021 10:19:17
+[
+File name: Log.txt
+Size: 9140 bytes
+File extension: .txt
+]
+
+------------------------------
+24.12.2021 10:19:17
+File Log.txt : date of creation - 24.12.2021 00:42:40, date of last edit - 24.12.2021 10:19:17
+------------------------------
+24.12.2021 10:19:17
+Time of the directory creation - 03.09.2021 09:55:40
+------------------------------
+24.12.2021 10:19:18
+The number of files - 0
+------------------------------
+24.12.2021 10:19:18
+Number of subdirectories - 9
+------------------------------
+24.12.2021 10:19:18
+Parent Directory - C:\ALINA
+------------------------------
